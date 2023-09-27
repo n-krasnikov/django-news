@@ -1,0 +1,6 @@
+# cached data
+__pycache__
+
+# environment
+!.env.example
+.env
